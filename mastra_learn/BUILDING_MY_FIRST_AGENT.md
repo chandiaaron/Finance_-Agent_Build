@@ -73,3 +73,9 @@ memory: new Memory({
 }),
 ```
 
+<img width="673" height="729" alt="image" src="https://github.com/user-attachments/assets/507e78c7-e836-4644-b1ef-21b5034934f3" />
+
+<img width="625" height="54" alt="image" src="https://github.com/user-attachments/assets/80ba66d5-b1be-427c-84b4-7b52037d1486" />
+
+
+
